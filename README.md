@@ -1,6 +1,6 @@
 Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 
-Enthousiastic about backend micro-services development deployed to Kubernetes.
+👀 I’m interested in backend micro-services development, deployed to Kubernetes.
 
 ![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
 
@@ -11,7 +11,7 @@ Enthousiastic about backend micro-services development deployed to Kubernetes.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/erwin-kok-5791502/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="email:erwin.kok"><img src="https://img.shields.io/badge/-email-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
+<a href="email:erwin@erwinkok.org"><img src="https://img.shields.io/badge/-email-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
 
 
 ### Trophies
