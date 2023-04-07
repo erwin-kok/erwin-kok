@@ -1,6 +1,11 @@
 Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 
-👀 I’m interested in backend micro-services development, deployed to Kubernetes.
+👀 I’m interested in:
+- backend 
+- micro-services development
+- Kotlin
+- Coroutines
+- Kubernetes.
 
 ![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
 
