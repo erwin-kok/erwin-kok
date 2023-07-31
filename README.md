@@ -5,7 +5,8 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - micro-services development
 - Kotlin
 - Coroutines
-- Kubernetes.
+- Kubernetes
+- (P2P) networking
 
 ![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
 
