@@ -6,7 +6,8 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - Kotlin
 - Coroutines
 - Kubernetes
-- (P2P) networking
+- P2P networking
+
 
 ![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
 
@@ -17,7 +18,7 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/erwin-kok-5791502/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:erwin.kok@protonmail.com"><img src="https://img.shields.io/badge/-email-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
+<a href="mailto:erwin-kok@gmx.com"><img src="https://img.shields.io/badge/-email-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
 
 
 ### Trophies
