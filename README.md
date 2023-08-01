@@ -7,6 +7,7 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - Coroutines
 - Kubernetes
 - P2P networking
+- Currently learning Rust
 
 
 ### Analytics ⚙️
@@ -16,11 +17,6 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=erwin-kok&count_private=true&show_icons=true)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erwin-kok&hide_border=true)
-
-<p align="center">
-  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
-  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
-</p>
 
 ## Let's connect? 🤝
 
