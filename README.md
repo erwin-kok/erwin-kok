@@ -9,10 +9,15 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - P2P networking
 
 
-![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwin-kok&layout=compact&count_private=true)
+
+![Erwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=erwin-kok&show_icons=true&count_private=true)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=JeroenKnoops&hide_border=true)
+
+<p align="center">
+  <img width="63%" src="profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="35%" src="profile-summary-card-output/github/4-productive-time.svg" />
+</p>
 
 ## Let's connect? 🤝
 
