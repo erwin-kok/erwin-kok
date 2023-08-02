@@ -6,8 +6,10 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - Kotlin
 - Coroutines
 - Kubernetes
-- P2P networking
-- Currently learning Rust
+- Networking / Networking stack
+- Peer-2-Peer (P2P) Networking
+- Quic
+- Learning Rust
 
 
 ### Analytics ⚙️
@@ -16,15 +18,8 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=erwin-kok&count_private=true&show_icons=true)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=erwin-kok&hide_border=true)
-
 ## Let's connect? 🤝
 
 <p align="left">
 <a href="https://www.linkedin.com/in/erwin-kok-5791502/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:erwin-kok@gmx.com"><img src="https://img.shields.io/badge/-email-8B89CC?style=flat&logo=protonmail&logoColor=white"/></a>
-
-
-### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=erwin-kok)](https://github.com/ryo-ma/github-profile-trophy)
