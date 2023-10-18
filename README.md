@@ -6,10 +6,9 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
 - QUIC / HTTP/3
 - Cryptography
 - Kotlin
-- Coroutines
-- backend 
-- micro-services development
 - Kubernetes
+- Coroutines
+- (De)compilers
 - Learning Rust
   
 
