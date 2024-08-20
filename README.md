@@ -1,13 +1,15 @@
-Hi 👋, my name is Erwin Kok, working as a Nerd at Philips Research.
+Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 
 👀 I’m interested in:
 - Networking / Networking stack
-- Peer-2-Peer (P2P) Networking
-- QUIC / HTTP/3
+- Kubernetes
+- Cluster API (CAPI, CAPMOX, CAPV)
+- CNI (Container Network Interface)
 - Cryptography
 - Kotlin
-- Kubernetes
-- Coroutines
+- Go
+- Peer-2-Peer (P2P) Networking
+- Coroutines / Lightweight threads
 - (De)compilers
 - Learning Rust
   
