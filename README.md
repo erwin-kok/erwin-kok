@@ -18,8 +18,6 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwin-kok&layout=compact&count_private=true)
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=erwin-kok&count_private=true&show_icons=true)
-
 ## Let's connect? 🤝
 
 <p align="left">
