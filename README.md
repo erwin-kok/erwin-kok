@@ -10,15 +10,13 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 - Go
 - Peer-2-Peer (P2P) Networking
 - Coroutines / Lightweight threads
-- (De)compilers
+- (De)compiler design
 - Learning Rust
   
 
 ### Analytics ⚙️
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwin-kok&layout=compact&count_private=true)
-
-[![](https://visitcount.itsvg.in/api?id=erwinkok&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Let's connect? 🤝
 
