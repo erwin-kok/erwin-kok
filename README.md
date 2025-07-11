@@ -1,17 +1,22 @@
 Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 
 👀 I’m interested in:
-- Networking / Networking stack
-- Kubernetes
-- Cluster API (CAPI, CAPMOX, CAPV)
-- CNI (Container Network Interface)
-- Cryptography
-- Kotlin
-- Go
+- Distributed computing
+- Microservices
+- Kubernetes  
+  - Cluster API (CAPI, CAPMOX, CAPV)
+  - CNI (Container Network Interface)
 - Peer-2-Peer (P2P) Networking
-- Coroutines / Lightweight threads
+- Networking / Networking stack
+- Cryptography
+- Languages
+  - Kotlin (Java)
+  - Go
+  - Learning Rust
+- Kotlin Coroutines
+- Redis / Kafka / RabbitMQ
+- gRPC
 - (De)compiler design
-- Learning Rust
   
 
 ### Analytics ⚙️
