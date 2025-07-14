@@ -3,6 +3,7 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 👀 I’m interested in:
 - Distributed computing
 - Microservices
+- Kotlin Multiplatform (KMP)
 - Kubernetes  
   - Cluster API (CAPI, CAPMOX, CAPV)
   - CNI (Container Network Interface)
