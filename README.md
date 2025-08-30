@@ -2,12 +2,13 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 
 👀 I’m interested in:
 - Distributed computing
+- Peer-2-Peer (P2P) Networking
+- QUIC / HTTP3
 - Microservices
 - Kotlin Multiplatform (KMP)
 - Kubernetes  
   - Cluster API (CAPI, CAPMOX, CAPV)
   - CNI (Container Network Interface)
-- Peer-2-Peer (P2P) Networking
 - Networking / Networking stack
 - Cryptography
 - Languages
@@ -17,7 +18,7 @@ Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
 - Kotlin Coroutines
 - Redis / Kafka / RabbitMQ
 - gRPC
-- (De)compiler design
+- (De)compiler design (ANTLR)
   
 
 ### Analytics ⚙️
