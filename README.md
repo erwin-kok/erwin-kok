@@ -7,15 +7,19 @@ I build scalable distributed systems, experiment with emerging networking protoc
 🚀 **What I Work On**
 
 **Distributed Computing / P2P Systems**
+
 Design and prototyping of resilient, fault-tolerant peer-to-peer systems.
 
 **Networking & Protocols**
+
 QUIC, HTTP/3, CNI, service meshes, high-performance transport layers.
 
 **Microservices & High-Throughput Systems**
+
 Kotlin Multiplatform, Rust, gRPC, Coroutines, async runtimes.
 
 **Compiler / Tooling Development**
+
 ANTLR, code generation, DSLs, emulation.
   
 
