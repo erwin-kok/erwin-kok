@@ -1,24 +1,22 @@
-Hi 👋, my name is Erwin Kok, working as a Nerd at Merapar Technologies.
+👋 **Hi, I'm Erwin Kok**
 
-👀 I’m interested in:
-- Distributed computing
-- Peer-2-Peer (P2P) Networking
-- QUIC / HTTP3
-- Microservices
-- Kotlin Multiplatform (KMP)
-- Kubernetes  
-  - Cluster API (CAPI, CAPMOX, CAPV)
-  - CNI (Container Network Interface)
-- Networking / Networking stack
-- Cryptography
-- Languages
-  - Kotlin (Java)
-  - Go
-  - Learning Rust
-- Kotlin Coroutines
-- Redis / Kafka / RabbitMQ
-- gRPC
-- (De)compiler design (ANTLR)
+**Senior Software Engineer • 30+ Years Experience • Distributed Systems & Open-Source Enthusiast**
+
+I build scalable distributed systems, experiment with emerging networking protocols, and contribute to open-source technologies that power resilient, modern infrastructure. I enjoy designing clean architectures, mentoring engineers, and pushing the boundaries of what’s possible with Kotlin, Rust (still learning), and modern networking stacks.
+
+🚀 **What I Work On**
+
+**Distributed Computing / P2P Systems**
+Design and prototyping of resilient, fault-tolerant peer-to-peer systems.
+
+**Networking & Protocols**
+QUIC, HTTP/3, CNI, service meshes, high-performance transport layers.
+
+**Microservices & High-Throughput Systems**
+Kotlin Multiplatform, Rust, gRPC, Coroutines, async runtimes.
+
+**Compiler / Tooling Development**
+ANTLR, code generation, DSLs, emulation.
   
 
 ### Analytics ⚙️
