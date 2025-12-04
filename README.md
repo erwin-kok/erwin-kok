@@ -1,6 +1,7 @@
 👋 **Hi, I'm Erwin Kok**
 
 **Senior Software Engineer • 30+ Years Experience • Distributed Systems & Open-Source Enthusiast**
+*(Most of my open-source work is built in my spare time — but I’m steadily expanding it.)*
 
 I build scalable distributed systems, experiment with emerging networking protocols, and contribute to open-source technologies that power resilient, modern infrastructure. I enjoy designing clean architectures, mentoring engineers, and pushing the boundaries of what’s possible with Kotlin, Rust (still learning), and modern networking stacks.
 
