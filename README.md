@@ -29,7 +29,9 @@ ANTLR, code generation, DSLs, emulation.
   
 
 ### Analytics ⚙️
+---
 
+<p align="middle">
 ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Let's connect? 🤝
