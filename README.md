@@ -30,7 +30,7 @@ ANTLR, code generation, DSLs, emulation.
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erwin-kok&layout=compact&count_private=true)
+![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/overview.svg#gh-light-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/languages.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/erwin-kok/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## Let's connect? 🤝
 
