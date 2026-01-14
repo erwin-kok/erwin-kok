@@ -2,14 +2,21 @@
 
 **Senior Software Engineer • 30+ Years Experience • Distributed Systems & Open-Source Enthusiast**
 
-*(Most of my open-source work is built in my spare time — but I’m steadily expanding it.)*
+Senior Software Engineer • 30+ Years Experience
+Distributed Systems, Networking, Compilers, and Infrastructure
 
-I build scalable distributed systems, explore emerging networking protocols, and contribute to open-source technologies that power resilient modern infrastructure. With over three decades of experience across distributed systems, networking, cloud-native platforms, microservice architectures, and API design, I enjoy digging into complex technical problems and designing clean, elegant solutions. I love mentoring engineers, experimenting with Kotlin and Rust (still learning), and diving into deeply analytical subjects that challenge how things work at a low level.
+I design and build distributed systems, developer tooling, and low-level infrastructure with an emphasis on correctness, scalability, and clear architectural boundaries. My experience spans distributed and peer-to-peer systems, networking protocols, cloud-native platforms, microservice architectures, and API design.
 
+Much of my professional work has been in proprietary environments; my public GitHub focuses on selected open-source projects and technical explorations that reflect long-term interests in systems engineering, language implementation, and runtime behavior.
 
-Much of my professional work is proprietary, so my public GitHub largely reflects my spare-time experiments, prototypes, and ongoing open-source explorations.
+I value clear design, explicit tradeoffs, and pragmatic solutions to complex technical problems. I also enjoy mentoring engineers and contributing to engineering cultures that emphasize rigor, simplicity, and technical depth.
 
 🚀 **What I Work On**
+
+
+**[conjvm](https://github.com/erwin-kok/conjvm) — C subset compiler targeting the JVM
+Kotlin / ANTLR4 / JVM
+A compiler for a well-defined subset of C, focusing on parsing, semantic analysis, SSA-style intermediate representations, and execution on the JVM.
 
 **Distributed Computing / P2P Systems**
 
