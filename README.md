@@ -2,9 +2,6 @@
 
 **Senior Software Engineer • 30+ Years Experience • Distributed Systems & Open-Source Enthusiast**
 
-Senior Software Engineer • 30+ Years Experience
-Distributed Systems, Networking, Compilers, and Infrastructure
-
 I design and build distributed systems, developer tooling, and low-level infrastructure with an emphasis on correctness, scalability, and clear architectural boundaries. My experience spans distributed and peer-to-peer systems, networking protocols, cloud-native platforms, microservice architectures, and API design.
 
 Much of my professional work has been in proprietary environments; my public GitHub focuses on selected open-source projects and technical explorations that reflect long-term interests in systems engineering, language implementation, and runtime behavior.
@@ -14,7 +11,7 @@ I value clear design, explicit tradeoffs, and pragmatic solutions to complex tec
 🚀 **What I Work On**
 
 
-**[conjvm](https://github.com/erwin-kok/conjvm) — C subset compiler targeting the JVM**
+**conjvm — C subset compiler targeting the JVM**
 
 Kotlin / ANTLR4 / JVM
 A compiler for a well-defined subset of C, focusing on parsing, semantic analysis, SSA-style intermediate representations, and execution on the JVM.
