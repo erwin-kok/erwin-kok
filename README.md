@@ -14,7 +14,7 @@ I value clear design, explicit tradeoffs, and pragmatic solutions to complex tec
 🚀 **What I Work On**
 
 
-**[conjvm](https://github.com/erwin-kok/conjvm) — C subset compiler targeting the JVM
+**[conjvm](https://github.com/erwin-kok/conjvm) — C subset compiler targeting the JVM**
 Kotlin / ANTLR4 / JVM
 A compiler for a well-defined subset of C, focusing on parsing, semantic analysis, SSA-style intermediate representations, and execution on the JVM.
 
